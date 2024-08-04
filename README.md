@@ -1,2 +1,1 @@
-# pygame-test
-# pygame-test
+This is a simple boxing game made with pygame. Use WASD for player 1 movement and arrows for player 2. spacebar activates punch for player 1 and enter(return) for player 2. Have fun!
