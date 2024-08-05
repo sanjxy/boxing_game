@@ -5,7 +5,7 @@ pygame.init()
 
 WIDTH, HEIGHT = 1900, 1030
 WIN = pygame.display.set_mode((WIDTH, HEIGHT))
-pygame.display.set_caption("First App Hehe")
+pygame.display.set_caption("World's best boxing game hehe")
 
 FPS = 60
 
