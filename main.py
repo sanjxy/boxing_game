@@ -129,10 +129,10 @@ def main():
         p1_health, p2_health = handle_attack(keys, p1, p2, p1_health, p2_health)
 
         if p1_health <= 0:
-            display_winner("Red Wins!")
+            display_winner("Red wins")
             run = False
         elif p2_health <= 0:
-            display_winner("Blue Wins!")
+            display_winner("Blue wins")
             run = False
 
         draw(p1, p2, platform, p1_health, p2_health)
